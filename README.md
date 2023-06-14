@@ -39,4 +39,4 @@ Este proyecto está licenciado bajo la licencia MIT - vea el archivo [LICENSE.md
 * Luis Quiroz
 * Oscar Salgado
 
-Nuestra aplicación está aquí para transformar el sistema de pensiones en Chile, brindando a los ciudadanos mayor control, transparencia y flexibilidad en sus inversiones para pensiones. ¡Únete a nosotros en este emocionante viaje hacia un futuro financiero más seguro y próspero!
+Nuestra aplicación está aquí para transformar el sistema de pensiones en Chile, brindando a los ciudadanos mayor control, transparencia y flexibilidad en sus inversiones para pensiones. ¡Únete a nosotros en este emocionante viaje hacia un futuro financiero más seguro y próspero.
