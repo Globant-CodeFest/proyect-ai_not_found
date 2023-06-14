@@ -40,3 +40,13 @@ Este proyecto está licenciado bajo la licencia MIT - vea el archivo [LICENSE.md
 * Oscar Salgado
 
 Nuestra aplicación está aquí para transformar el sistema de pensiones en Chile, brindando a los ciudadanos mayor control, transparencia y flexibilidad en sus inversiones para pensiones. ¡Únete a nosotros en este emocionante viaje hacia un futuro financiero más seguro y próspero.
+
+## Arquitectura
+
+Se implementaron servicios serverles mediante la interface web (consola) para el despliegue de los servicios
+- Lambdas
+- ApiGateWay
+- IAM
+- DynamoDB
+   
+https://app.diagrams.net/#G1Z5iEeLw0Uylp-nzLDTW38QjjqU7LojhJ
